@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&text=Hi%20there%20%F0%9F%91%8B&desc=Welcome%20to%20Eamon%27s%20refo&fontSize=45&rotate=13&fontAlignY=30&animation=fadeIn&descAlignY=50)
 
+- Front-Engeener
+- Steadily & Daily
+- Academically & Socially
 <div align="center">
    
 # 💪 Skills 💪
